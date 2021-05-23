@@ -1,0 +1,6 @@
+{
+"name": "CardistackTestPool",
+"description": "The pool that tests all the pools",
+"ticker": "CSKTest",
+"homepage": "https://cskteststakepool.com"
+    }
